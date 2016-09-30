@@ -443,7 +443,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [SJC](http://services.faa.gov/airport/status/SJC?format=application/json)
 
 > Heads up: Only works for US airports only, not international.
-
+* [Countries to Cities-mapping](https://raw.githubusercontent.com/David-Haim/CountriesToCitiesJSON/master/countriesToCities.json)
 ## TV Shows
 * [Girls (HBO)](http://api.tvmaze.com/singlesearch/shows?q=hbo&embed=episodes)
 * [Dexter (Showtime)](http://api.tvmaze.com/singlesearch/shows?q=dexter&embed=episodes)
